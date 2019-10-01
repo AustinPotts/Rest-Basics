@@ -44,7 +44,6 @@
 		4674383F20AB419700E7FF73 = {
 			isa = PBXGroup;
 			children = (
-				45472F592343BAF100EB74F4 /* PersonController.swift */,
 				4674384A20AB419700E7FF73 /* Find A Crew */,
 				4674384920AB419700E7FF73 /* Products */,
 			);
@@ -117,6 +116,7 @@
 		4674386E20AB50BF00E7FF73 /* Model Controller */ = {
 			isa = PBXGroup;
 			children = (
+				45472F592343BAF100EB74F4 /* PersonController.swift */,
 			);
 			path = "Model Controller";
 			sourceTree = "<group>";
